@@ -9,5 +9,8 @@
 $str = "goodDay";
 echo $str;
 
+$str .= 'max1';
+
 $str .= 'timon2';
 echo $str;
+
