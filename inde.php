@@ -8,3 +8,6 @@
 
 $str = "goodDay";
 echo $str;
+
+$str .= 'timon2';
+echo $str;
